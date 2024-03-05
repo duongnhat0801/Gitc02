@@ -1,6 +1,9 @@
 Hello CO224G1
 git init: khởi tạo local repository
+git remote: ket nối local repo với remote repo
+git config --global user.name
+git config --global user.gmail
+
 git add <tên-file>: đảy file demo.txt vào staging area
 git commit -m "hello git": đưa thay đổi vào local repo, tạo 1 snap shot lưu trữ lại lịch sử thay đổi
-git remote: ket nối local repo với remote repo
 git push origin master : đẩy code từ local repo lên remote remote repo
